@@ -46,7 +46,7 @@
     "i": "^0.3.7",
     "jwt-decode": "^2.2.0",
     "lodash-es": "^4.17.21",
-    "material-icons": "^0.3.1",
+    "material-icons": "^0.7.7",
     "ng-gallery": "^11.0.0",
     "ng-qrcode": "^16.0.0",
     "ng2-file-upload": "^5.0.0",
