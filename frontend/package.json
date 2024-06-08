@@ -63,7 +63,7 @@
     "solidity-browser-compiler": "^1.1.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.4",
-    "zustand": "4.4.1"
+    "zustand": "4.5.2"
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "^17.0.1",
