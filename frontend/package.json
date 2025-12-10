@@ -26,7 +26,7 @@
     "@angular/router": "^17.2.1",
     "@angular/ssr": "^17.2.0",
     "@ctrl/ngx-codemirror": "^6.1.0",
-    "@cyclonedx/webpack-plugin": "^3.6.0",
+    "@cyclonedx/webpack-plugin": "^5.2.4",
     "@fortawesome/fontawesome-svg-core": "~1.2.30",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
     "@fortawesome/free-regular-svg-icons": "^5.14.0",
